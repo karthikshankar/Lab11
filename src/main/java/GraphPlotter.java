@@ -110,7 +110,7 @@ public class GraphPlotter extends JPanel {
     }
 
     /**
-     * This function computes and returns the maximum value in the data.
+     * This function computes and returns the maximum value in the data -.
      *
      * @return the maximum value in the data
      */

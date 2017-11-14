@@ -194,7 +194,7 @@ public class Sorting {
         }
 
         /*
-         * Plot the results if the sorts succeeded.
+         * Plot the results if the sorts succeeded -.
          */
         JFrame f = new JFrame();
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
